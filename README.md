@@ -70,9 +70,9 @@ I believe technology is a bridge to transform ideas into real solutions. My goal
 
 <div align="center">
   <a href="mailto:lucasvargalvl@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-lucas.varga%40email.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+    <img src="https://img.shields.io/badge/E--mail-lucasvargalvl%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="https://www.linkedin.com/in/lucas-varga" target="_blank">
+  <a href="https://www.linkedin.com/in/lucas-varga-a18a39394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app">
     <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Varga-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Lucas-Varga" target="_blank">
