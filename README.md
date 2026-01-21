@@ -61,7 +61,7 @@ I am Lucas Varga, a Fullstack Systems Development student, currently focusing on
 
 **Technologies:** Java, Kotlin, Jetpack Compose, Spring Boot (backend), Android Studio.
 
-[🔗 Access the public Backend repository](https://github.com/Lucas-Varga/Checkout)  
+[🔗 Access the public Backend repository](https://github.com/Lucas-Varga/CarCheck360-Backend)  
 [🔗 Access the public Frontend repository](https://github.com/Lucas-Varga/CarCheck360-Frontend)
 
 ---
