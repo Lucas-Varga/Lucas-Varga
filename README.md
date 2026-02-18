@@ -47,6 +47,27 @@ I am Lucas Varga, a Fullstack Systems Development student, currently focusing on
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="JDBC" width="48" height="48"/>
       <br>JDBC
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="java" />
+      <br>Java Script
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="java" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="java" />
+      <br>CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=scss" width="45" height="45" alt="java" />
+      <br>SCSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="java" />
+      <br>Java
+    </td>
+   
   </tr>
 </table>
 <br/>
@@ -79,8 +100,6 @@ I am Lucas Varga, a Fullstack Systems Development student, currently focusing on
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="Trello" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="JavaScript" width="40" height="40"/>
-</div>
 
 <p align="center">
   <sub>Notion • Trello • Photoshop • Lightroom • CorelDraw • Scrum</sub>
