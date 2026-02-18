@@ -25,7 +25,7 @@ I am Lucas Varga, a Fullstack Systems Development student, currently focusing on
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=spring" width="45" height="45" alt="Spring Boot" />
-      <br>Spring Boot
+      <br>SpringBoot
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=androidstudio" width="45" height="45" alt="Android" />
@@ -33,7 +33,7 @@ I am Lucas Varga, a Fullstack Systems Development student, currently focusing on
     </td>
     <td align="center" width="90">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" alt="Jetpack Compose" width="45" height="45"/>
-      <br>Jetpack Compose
+      <br>JetpackCompose
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git" />
@@ -49,7 +49,7 @@ I am Lucas Varga, a Fullstack Systems Development student, currently focusing on
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="java" />
-      <br>Java Script
+      <br>JavaScript
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="java" />
@@ -65,7 +65,7 @@ I am Lucas Varga, a Fullstack Systems Development student, currently focusing on
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="java" />
-      <br>Java
+      <br>React
     </td>
    
   </tr>
